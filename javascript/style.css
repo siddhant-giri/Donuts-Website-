@@ -1,0 +1,54 @@
+/*.cityList{
+	color: blue;
+	font-size: 22px;
+}
+
+.greenCity{
+	color: green;
+}
+
+.redCity{
+	color: red;
+}
+
+
+.hide{
+	display: none;
+}
+
+.red-class{
+	color: blue;
+	font-weight: bold;
+	font-size: 22px;
+}*/
+
+body{
+	text-align: center;
+}
+
+/*.circle-div{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background-color: red;
+}*/
+
+#mountains{
+	height: 600px;
+	width: 600px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
